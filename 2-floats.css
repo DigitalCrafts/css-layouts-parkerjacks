@@ -1,0 +1,30 @@
+header{ 
+    width: 100%; 
+    height: 87px;
+
+} 
+
+main{ 
+    float:left; 
+    width: 75%; 
+    
+
+} 
+aside{  
+    float: right; 
+    width: 25%; 
+    
+
+
+}  
+.clearfix { clear: both; 
+    bottom: 20px;
+
+}
+
+footer{ 
+    position: fixed; 
+    bottom: 0px; 
+    width: 100%;
+
+}
